@@ -1,4 +1,4 @@
-Case Técnico - Estagiário em Analytics - QUOD
+# Case Técnico - Estagiário em Analytics - QUOD
 Neste repositório encontram se: 
 - O notebook `Case Parte 1 - Python.ipynb` do jupyterlab contendo todo o código desde a criação dos dados até as análises e resultados obtidos.
 - A base de dados `data_clean.csv` que contém o dataset criado limpo.
